@@ -1,0 +1,3 @@
+hello there
+this is lab 1 for git class
+yay!
