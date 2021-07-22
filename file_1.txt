@@ -1,3 +1,4 @@
+-- Lab 2: Inserted line with text to see in diff
 hello there
 this is lab 1 for git class
 yay!
